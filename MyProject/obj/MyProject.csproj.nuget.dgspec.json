@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET\\NguyenThingocChau_2122110055\\MyProject\\MyProject.csproj": {}
+    "D:\\ASP.NET\\NguyenThiNgocChau_2122110055\\MyProject\\MyProject.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET\\NguyenThingocChau_2122110055\\MyProject\\MyProject.csproj": {
+    "D:\\ASP.NET\\NguyenThiNgocChau_2122110055\\MyProject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\NguyenThingocChau_2122110055\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\NguyenThiNgocChau_2122110055\\MyProject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "D:\\ASP.NET\\NguyenThingocChau_2122110055\\MyProject\\MyProject.csproj",
+        "projectPath": "D:\\ASP.NET\\NguyenThiNgocChau_2122110055\\MyProject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\NguyenThingocChau_2122110055\\MyProject\\obj\\",
+        "outputPath": "D:\\ASP.NET\\NguyenThiNgocChau_2122110055\\MyProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,19 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.3, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
