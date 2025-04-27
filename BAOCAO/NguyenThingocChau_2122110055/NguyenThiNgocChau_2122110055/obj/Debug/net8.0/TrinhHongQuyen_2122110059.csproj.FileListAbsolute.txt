@@ -1,0 +1,892 @@
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.AssemblyReference.cache
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.GeneratedMSBuildEditorConfig.editorconfig
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfoInputs.cache
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfo.cs
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.CoreCompileInputs.cache
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cs
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cache
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.Development.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.staticwebassets.runtime.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.staticwebassets.endpoints.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.exe
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.deps.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.runtimeconfig.json
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Core.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Identity.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Humanizer.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Common.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.ClientModel.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.CodeDom.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Memory.Data.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Json.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\scopedcss\bundle\NguyenThiNgocChau_2122110055.styles.css
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.build.json
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.development.json
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.NguyenThiNgocChau_2122110055.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.NguyenThiNgocChau_2122110055.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenThiNgocChau_2122110055.props
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenThiNgocChau_2122110055.props
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenThiNgocChau_2122110055.props
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.pack.json
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\TrinhHon.9A2301B3.Up2Date
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\refint\NguyenThiNgocChau_2122110055.dll
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.genruntimeconfig.cache
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\ref\NguyenThiNgocChau_2122110055.dll
+E:\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.json
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.staticwebassets.runtime.json
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.exe
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.deps.json
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.runtimeconfig.json
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Core.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Identity.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Humanizer.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Common.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.ClientModel.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.CodeDom.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Memory.Data.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Json.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\New folder\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.AssemblyReference.cache
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfoInputs.cache
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfo.cs
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.CoreCompileInputs.cache
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\scopedcss\bundle\NguyenThiNgocChau_2122110055.styles.css
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.NguyenThiNgocChau_2122110055.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenThiNgocChau_2122110055.props
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenThiNgocChau_2122110055.props
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenThiNgocChau_2122110055.props
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\refint\NguyenThiNgocChau_2122110055.dll
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.genruntimeconfig.cache
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\ref\NguyenThiNgocChau_2122110055.dll
+D:\New folder\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.CopyComplete
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.Development.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\appsettings.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.staticwebassets.runtime.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.exe
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.deps.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.runtimeconfig.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Core.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Azure.Identity.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Humanizer.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Common.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.ClientModel.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.CodeDom.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Text.Json.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.AssemblyReference.cache
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfoInputs.cache
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.AssemblyInfo.cs
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.CoreCompileInputs.cache
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cs
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.MvcApplicationPartsAssemblyInfo.cache
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.build.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.development.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.NguyenThiNgocChau_2122110055.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenThiNgocChau_2122110055.props
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenThiNgocChau_2122110055.props
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenThiNgocChau_2122110055.props
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\scopedcss\bundle\NguyenThiNgocChau_2122110055.styles.css
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.csproj.CopyComplete
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\refint\NguyenThiNgocChau_2122110055.dll
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.pdb
+C:\Phúc\BAO CAO ASP\NguyenThiNgocChau_2122110055\obj\Debug\net8.0\NguyenThiNgocChau_2122110055.genruntimeconfig.cache
+C:\Phúc\BAO CAO ASP\PhamMinhPhuc_2122110044\obj\Debug\net8.0\ref\PhamMinhPhuc_2122110044.dll

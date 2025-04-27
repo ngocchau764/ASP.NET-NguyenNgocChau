@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\NguyenThiNgocChau_2122110055\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\NguyenThiNgocChau_2122110055.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:NguyenThiNgocChau_2122110055.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\migrations\\20250418022311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:migrations\\20250418022311_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\migrations\\20250418022311_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:migrations\\20250418022311_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|d:\\new folder\\NguyenThiNgocChau_2122110055\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|NguyenThiNgocChau_2122110055.csproj|solutionrelative:model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250418022311_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\20250418022311_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418022311_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\20250418022311_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250418022311_InitialCreate.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:01:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguyenThiNgocChau_2122110055.http",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\NguyenThiNgocChau_2122110055.http",
+              "RelativeDocumentMoniker": "NguyenThiNgocChau_2122110055.http",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\NguyenThiNgocChau_2122110055.http",
+              "RelativeToolTip": "NguyenThiNgocChau_2122110055.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-18T05:48:51.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAQwBgBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIBJwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwFMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "Model\\Brand.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Model\\Brand.cs",
+              "RelativeToolTip": "Model\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250418022311_InitialCreate.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\20250418022311_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418022311_InitialCreate.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Migrations\\20250418022311_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250418022311_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T05:41:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Controllers\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthEndpoints.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Controllers\\AuthEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Auth\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Auth\\JwtSettings.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Auth\\JwtSettings.cs",
+              "RelativeToolTip": "Auth\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Auth\\TokenService.cs",
+              "ToolTip": "D:\\New folder\\NguyenThiNgocChau_2122110055\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Auth\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
